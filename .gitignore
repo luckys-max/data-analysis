@@ -1,20 +1,4 @@
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
+# Intentionally empty to allow uploading the whole repository
+# Previously ignored patterns removed so all files can be added and pushed.
 
-# Jupyter Notebook
-.ipynb_checkpoints/
-
-# Virtual environment
-venv/
-.env/
-.env
-
-# VS Code
-.vscode/
-
-# System files
-.DS_Store
-Thumbs.db
+# If you later want to ignore specific files, add patterns below.
